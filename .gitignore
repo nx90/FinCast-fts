@@ -12,3 +12,5 @@ logs/
 src/my_project.egg-info/
 results/long_horizon
 results/
+input/
+output/
